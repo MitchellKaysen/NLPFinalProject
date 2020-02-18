@@ -1,0 +1,19 @@
+#pycache files
+__pycache__/
+
+#vscode
+.vscode/
+
+#datasets/pretrained embeddings
+data/
+glove.6B/
+personachat/
+
+#latex
+submission/*.*
+!submission/*.pdf
+340-acl2019-latex/
+
+
+#test model checkpoints
+models/
