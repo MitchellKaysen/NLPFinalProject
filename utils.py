@@ -1,6 +1,6 @@
 # utils.py
 
-
+# Credit to Greg Durrett, Ph.D., University of Texas at Austin. Used with author permission
 class Indexer(object):
     """
     Bijection between objects and integers starting at 0. Useful for mapping
